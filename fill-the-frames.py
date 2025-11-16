@@ -11,7 +11,7 @@ def single_problem():
     vertical_line = random.randint(3, 10)
 
     print(" ——" * horizontal_line_left, "|", "—— " * horizontal_line_right)
-    print("|\n" * vertical_line)
+    print("︱\n" * vertical_line)
 
     answer = ""
     left_side = horizontal_line_left * vertical_line
