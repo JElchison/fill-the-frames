@@ -6,6 +6,8 @@ This Python script will generate a worksheet containing 5 randomized "Fill the F
 
 Use the Linux Bash script to send to a printer (fill in your printer name)
 
+Answers will print on the back of the page
+
 
 ## Example
 
