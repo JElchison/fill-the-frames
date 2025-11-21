@@ -31,7 +31,7 @@ if __name__ == "__main__":
         answers.append(single_problem())
         print("\n")
     
-    print("\f")  # Form feed for new page"
+    print("\f")  # form feed for new page (print answers on back side)
     print("Answers:\n")
     for _ in answers:
         print(_)
